@@ -5,7 +5,7 @@ Description: This Java-based Bank Management System features a user-friendly Swi
 
 Key Features:
 
-1.User Authentication: Secure login system for authorized access.
+1.User Authentication: Secure login system for authorized access.//
 2.Customer Management: Create, update, and delete customer accounts.
 3.Account Management: Establish accounts, make deposits and withdrawals, and calculate balances.
 4.Transaction History: Record and display transaction details.
